@@ -1,0 +1,8 @@
+{
+  "name": "wyy-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/weiny-queen/wyy-pages.git",
+  "author": "wyy <wyy@workai.com.cn>",
+  "license": "MIT"
+}
